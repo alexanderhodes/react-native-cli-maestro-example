@@ -1,6 +1,6 @@
 # Example for using maestro with React Native (CLI)
 
-In this repository we want to show how to use Maestro with React Native apps built with Expo. You can read the full article on our [blog at dev.to](). If you want check out maestro with a React Native Expo app, you can have a look at [this repository](https://github.com/alexanderhodes/react-native-expo-maestro-example), because there are some differences when launching the app with Expo.
+In this repository we want to show how to use Maestro with React Native apps built with Expo. You can read the full article on our [blog at dev.to](https://dev.to/b42/test-your-react-native-app-with-maestro-5bfj). If you want check out maestro with a React Native Expo app, you can have a look at [this repository](https://github.com/alexanderhodes/react-native-expo-maestro-example), because there are some differences when launching the app with Expo.
 
 The application is a simple sign in interface where username and password can be entered. After clicking the sign in button a success message will be displayed below the button.
 
@@ -115,3 +115,4 @@ In our article we described some tips and tricks, like usage of `testID`, parame
 - [Maestro GitHub Repository](https://github.com/mobile-dev-inc/maestro)
 - [Maestro Cloud Documentation](https://cloud.mobile.dev)
 - [Example Repository for React Native Expo App](https://github.com/alexanderhodes/react-native-expo-maestro-example)
+- [Article about testing React Native apps with Maestro](https://dev.to/b42/test-your-react-native-app-with-maestro-5bfj)
